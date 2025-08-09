@@ -12,7 +12,7 @@ const selectOptions = [
 	'Website Maintenance & Support',
 ];
 
-const SIMULATE_SEND = true; // set true to simulate (no network); set false to use Formspree
+const SIMULATE_SEND = false; // set true to simulate (no network); set false to use Formspree
 
 const HireMeModal = ({ onClose }) => {
 	// Formspree hook (used only when not simulating)
