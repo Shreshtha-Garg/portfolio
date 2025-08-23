@@ -5,7 +5,7 @@ export const clientsHeading = 'My Achievements & Experiences';
 export const clientsData = [
 	{
 		title: 'Problem-Solving Excellence',
-		description: 'Solved 500+ problems on LeetCode (rating 1755) with top global contest ranks of 1364 and 2265 among 30,000+ participants.'
+		description: 'Solved 500+ problems on LeetCode and I am a Knight (rating 1847) with top global contest ranks of 657 and 1364 among 30,000+ participants.'
 	},
 	{
 		title: 'Competitive Programming',
